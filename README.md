@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Visitor Count](https://profile-counter.glitch.me/Telexx12/count.svg)
+![](https://komarev.com/ghpvc/?username=Telexx12&color=green)
 
 
 <!--

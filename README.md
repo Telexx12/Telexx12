@@ -1,3 +1,29 @@
+---
+title: Scrollable code blocks
+output: html_document
+---
+
+```{css, echo=FALSE}
+pre {
+  max-height: 300px;
+  overflow-y: auto;
+}
+
+pre[class] {
+  max-height: 100px;
+}
+```
+
+```{r}
+# pretend that we have a lot of code in this chunk
+if (1 + 1 == 2) {
+  # of course that is true
+  print(mtcars)
+  # we just printed a lengthy data set
+}
+```
+
+
 ### Hi there 👋
 
 ![](https://komarev.com/ghpvc/?username=Telexx12&color=green)

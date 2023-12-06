@@ -6,14 +6,19 @@
 <kbd style="display: block; height: 200px; overflow-y: auto;">
 
   #### Task List in a Box:
-
+   - [ ] Task 3
+    - [x] Task 1
+    - [ ] Task 2
+    - [ ] Task 3
+    - [ ] Task 3
   <details>
   <summary>
-     - [x] Task 1
-     - [ ] Task 2
-     - [ ] Task 3
-     - [ ] Task 3
+     More
   </summary>
+    - [ ] Task 3
+    - [x] Task 1
+    - [ ] Task 2
+    - [ ] Task 3
     - [ ] Task 3
 </details>
 </kbd>

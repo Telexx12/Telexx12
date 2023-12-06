@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Telexx12&color=green)
 
-<div style="border: 1px solid #ddd; padding: 10px;">
+<div style="border: 1px solid #fff; padding: 10px;">
 
   #### Task List in a Box:
   - [x] Task 1

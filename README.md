@@ -15,7 +15,8 @@
     <summary>
        More
     </summary>
-    - [ ] Task 3
+    <span style="display:block"> - [ ] Task 3</span>
+   
     - [x] Task 1
     - [ ] Task 2
     - [ ] Task 3

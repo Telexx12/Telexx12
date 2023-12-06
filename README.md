@@ -15,45 +15,6 @@
      - [ ] Task 3
   </summary>
     - [ ] Task 3
-  - [ ] Task 3
-  - [ ] Task 3
-  - [ ] Task 3
-  - [ ] Task 3
-  - [ ] Task 3
-  - [ ] Task 3
-  - [ ] Task 3
-  - [ ] Task 3
-  - [ ] Task 3
-  - [ ] Task 3
-  - [ ] Task 3
-  - [ ] Task 3
-  - [ ] Task 3
-  - [ ] Task 3
-  - [ ] Task 3
-  - [ ] Task 3
-  - [ ] Task 3
-  - [ ] Task 3
-  - [ ] Task 3
-  - [ ] Task 3
-  - [ ] Task 3
-  - [ ] Task 3
-  - [ ] Task 3
-  - [ ] Task 3
-  - [ ] Task 3
-  - [ ] Task 3
-  - [ ] Task 3
-  - [ ] Task 3
-  - [ ] Task 3
-  - [ ] Task 3
-  - [ ] Task 3
-  - [ ] Task 3
-  - [ ] Task 3
-  - [ ] Task 3
-  - [ ] Task 3
-  - [ ] Task 3
-  - [ ] Task 3
-  - [ ] Task 3
-  - [ ] Task 3
 </details>
 </kbd>
 <!--

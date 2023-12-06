@@ -2,11 +2,39 @@
 
 ![](https://komarev.com/ghpvc/?username=Telexx12&color=green)
 
-<kbd>
+<kbd style="display: block; height: 200px; overflow-y: auto;">
 
   #### Task List in a Box:
   - [x] Task 1
   - [ ] Task 2
+  - [ ] Task 3
+  - [ ] Task 3
+  - [ ] Task 3
+  - [ ] Task 3
+  - [ ] Task 3
+  - [ ] Task 3
+  - [ ] Task 3
+  - [ ] Task 3
+  - [ ] Task 3
+  - [ ] Task 3
+  - [ ] Task 3
+  - [ ] Task 3
+  - [ ] Task 3
+  - [ ] Task 3
+  - [ ] Task 3
+  - [ ] Task 3
+  - [ ] Task 3
+  - [ ] Task 3
+  - [ ] Task 3
+  - [ ] Task 3
+  - [ ] Task 3
+  - [ ] Task 3
+  - [ ] Task 3
+  - [ ] Task 3
+  - [ ] Task 3
+  - [ ] Task 3
+  - [ ] Task 3
+  - [ ] Task 3
   - [ ] Task 3
   - [ ] Task 3
   - [ ] Task 3

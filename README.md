@@ -1,28 +1,3 @@
----
-title: Scrollable code blocks
-output: html_document
----
-
-```{css, echo=FALSE}
-pre {
-  max-height: 300px;
-  overflow-y: auto;
-}
-
-pre[class] {
-  max-height: 100px;
-}
-```
-
-```{r}
-# pretend that we have a lot of code in this chunk
-if (1 + 1 == 2) {
-  # of course that is true
-  print(mtcars)
-  # we just printed a lengthy data set
-}
-```
-
 
 ### Hi there 👋
 
@@ -31,8 +6,15 @@ if (1 + 1 == 2) {
 <kbd style="display: block; height: 200px; overflow-y: auto;">
 
   #### Task List in a Box:
-  - [x] Task 1
-  - [ ] Task 2
+
+  <details>
+  <summary>
+     - [x] Task 1
+     - [ ] Task 2
+     - [ ] Task 3
+     - [ ] Task 3
+  </summary>
+    - [ ] Task 3
   - [ ] Task 3
   - [ ] Task 3
   - [ ] Task 3
@@ -72,9 +54,7 @@ if (1 + 1 == 2) {
   - [ ] Task 3
   - [ ] Task 3
   - [ ] Task 3
-  - [ ] Task 3
-  - [ ] Task 3
-  - [ ] Task 3
+</details>
 </kbd>
 <!--
 **Telexx12/Telexx12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

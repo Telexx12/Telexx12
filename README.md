@@ -2,6 +2,11 @@
 
 ![](https://komarev.com/ghpvc/?username=Telexx12&color=green)
 
+- [x] Task 1
+- [ ] Task 2
+  - [ ] Subtask 2.1
+  - [x] Subtask 2.2
+- [ ] Task 3
 
 <!--
 **Telexx12/Telexx12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

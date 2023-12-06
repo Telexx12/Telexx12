@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Visitor Count](https://profile-counter.glitch.me/Telexx12/count.svg)
+
+
 <!--
 **Telexx12/Telexx12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

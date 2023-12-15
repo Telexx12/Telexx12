@@ -1,5 +1,5 @@
 
-### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px"> 
+### Welcome to my page, take a look at me! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px"> 
 
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Telexx12&color=green">
@@ -18,6 +18,8 @@
   - My planned projects ( I have a whole arsenal of ideas, but just a limited time for it <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/216655835-a5f1d93e-f8b1-44da-90ec-e52e833824f6.gif" width="30">)
     
      🛠️ Portfolio website
+    
+     🛠️ NodeJS course
 
   - 🤞 One day I hope to...
     - I can be a part of a world-changing project. 🚀
@@ -48,7 +50,8 @@
 # 📫 How to reach me:
 
   [<img src="https://logowik.com/content/uploads/images/upwork.jpg" height="30em"/>](https://www.upwork.com/freelancers/~01f893ba367c73dfa3)
-
+  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:telegdi.david12@gmail.com)](mailto:telegdi.david12@gmail.com)
+  [<img src="https://stackoverflow.com/users/flair/19615291.png?theme=dark" height="30em"/>](https://stackoverflow.com/users/19615291/telexx)
 
 
 

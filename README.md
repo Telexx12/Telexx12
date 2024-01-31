@@ -27,7 +27,7 @@
     - I get an internship job 🤝🌍 (If you can please hire me 🤙)
     - I own a Raspberry PI 🍓💻
 
-# 🔋 Technologies that I use
+# 🔋 Tech Stack
   ![](https://img.shields.io/badge/PHP-grey?logo=php)
   ![](https://img.shields.io/badge/Laravel-grey?logo=laravel)
   ![](https://img.shields.io/badge/Javascript-grey?logo=javascript)
@@ -39,7 +39,7 @@
   ![](https://img.shields.io/badge/Bootstrap-grey?logo=bootstrap)
   ![](https://img.shields.io/badge/npm-grey?logo=npm)
   ![](https://img.shields.io/badge/Composer-grey?logo=composer)
-  ![](https://img.shields.io/badge/MySql-grey?logo=mysql)  
+  ![](https://img.shields.io/badge/MySql-grey?logo=mysql)
   ![](https://img.shields.io/badge/macOS-grey?logo=macos)
   ![](https://img.shields.io/badge/Windows-grey?logo=windows)
   ![](https://img.shields.io/badge/Linux-grey?logo=linux)

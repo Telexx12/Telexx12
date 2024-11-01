@@ -24,19 +24,41 @@ Besides my full-time job and some freelance work, I learn something new every da
 
 ## Feature goals: 🎯
 
-- Contribute to a repositoty
-- Create an SPA with Inertia and Vue
-- Create a web game!
-- Try out an arduino or a rasperry pi!
+- 🌟 Contribute to a repository
+- 🖥️ Create an SPA with Inertia and Vue
+- 🎮 Create a web game!
+- 🔌 Try out an Arduino or a Raspberry Pi!
 
 ## Tech Stack 🧺
 
 <div>
-    <img src="https://skillicons.dev/icons?i=laravel&theme=dark" alt="My Skills"  width="40px" height="40px"/>
-    <img src="https://skillicons.dev/icons?i=alpinejs&theme=dark" alt="My Skills"  width="40px" height="40px"/>
+    <img src="https://skillicons.dev/icons?i=laravel&theme=dark" alt="My Skills"  width="40px" height="40px" title="Laravel"/>
+    <img src="https://github.com/user-attachments/assets/3361b981-3236-48a2-a5d4-5699eb109112" alt="My Skills" width="40px" height="40px" title="Livewire"/>
+    <img src="https://skillicons.dev/icons?i=vue&theme=dark" alt="My Skills"  width="40px" height="40px" title="Vue.js"/>
+    <img src="https://skillicons.dev/icons?i=react&theme=dark" alt="My Skills"  width="40px" height="40px" title="React"/>
+    <img src="https://skillicons.dev/icons?i=alpinejs&theme=dark" alt="My Skills"  width="40px" height="40px" title="Alpinejs"/>
+    <img src="https://skillicons.dev/icons?i=css&theme=dark" alt="My Skills"  width="40px" height="40px" title="CSS"/>
+    <img src="https://skillicons.dev/icons?i=html&theme=dark" alt="My Skills"  width="40px" height="40px" title="HTML"/>
+    <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="My Skills"  width="40px" height="40px" title="MySQL"/>
+    <img src="https://skillicons.dev/icons?i=arch&theme=dark" alt="My Skills"  width="40px" height="40px" title="Arch Linux"/>
+    <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" alt="My Skills"  width="40px" height="40px" title="Bootstrap"/>
+    <img src="https://skillicons.dev/icons?i=stackoverflow&theme=dark" alt="My Skills"  width="40px" height="40px" title="StackOverFlow"/>
+    <img src="https://skillicons.dev/icons?i=cs&theme=dark" alt="My Skills"  width="40px" height="40px" title="C#"/>
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="My Skills"  width="40px" height="40px" title="GitHub"/>
+    <img src="https://skillicons.dev/icons?i=js&theme=dark" alt="My Skills"  width="40px" height="40px" title="JavaScript"/>
+    <img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="My Skills"  width="40px" height="40px" title="Linux"/>
+    <img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="My Skills"  width="40px" height="40px" title="Docker"/>
+    <img src="https://skillicons.dev/icons?i=c&theme=dark" alt="My Skills"  width="40px" height="40px" title="C"/>
+    <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="My Skills"  width="40px" height="40px" title="NodeJs"/>
+    <img src="https://skillicons.dev/icons?i=npm&theme=dark" alt="My Skills"  width="40px" height="40px" title="NPM"/>
+    <img src="https://skillicons.dev/icons?i=php&theme=dark" alt="My Skills"  width="40px" height="40px" title="PHP"/>
+    <img src="https://skillicons.dev/icons?i=phpstorm&theme=dark" alt="My Skills"  width="40px" height="40px" title="PHPStorm"/>
+    <img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="My Skills"  width="40px" height="40px" title="Postman"/>
+    <img src="https://skillicons.dev/icons?i=windows&theme=dark" alt="My Skills"  width="40px" height="40px" title="Windows"/>
+    <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="My Skills"  width="40px" height="40px" title="VSCode"/>
 </div>
 
-## You can reach me out: 🤝
+## You can reach me out: 📫
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:telegdi.david12@gmail.com)
 [![Upwork Badge](https://img.shields.io/badge/Upwork-darkgreen?style=flat-square&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01f893ba367c73dfa3)
@@ -59,7 +81,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+-  How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
   -->

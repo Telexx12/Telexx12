@@ -29,7 +29,7 @@ Besides my full-time job and some freelance work, I learn something new every da
 - 🎮 Create a web game!
 - 🔌 Try out an Arduino or a Raspberry Pi!
 
-## Tech Stack 🧺
+## Tech Stack Pyramid ⛰️ (Hover Over Each Technology for More Info!)
 
 <div>
     <div align="center">

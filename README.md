@@ -69,9 +69,9 @@ Besides my full-time job and some freelance work, I learn something new every da
 
 ## You can reach me out: 📫
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:telegdi.david12@gmail.com)
-[![Upwork Badge](https://img.shields.io/badge/Upwork-darkgreen?style=flat-square&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01f893ba367c73dfa3)
-
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:telegdi.david12@gmail.com)
+[![Upwork Badge](https://img.shields.io/badge/Upwork-darkgreen?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01f893ba367c73dfa3)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/telegdi-david-4b29a428a)
 <div align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=Telexx12&exclude_days=Sun%2CSat" alt="GitHub Streak">

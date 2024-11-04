@@ -32,14 +32,21 @@ Besides my full-time job and some freelance work, I learn something new every da
 ## Tech Stack 🧺
 
 <div>
-    <img src="https://skillicons.dev/icons?i=laravel&theme=dark" alt="My Skills"  width="40px" height="40px" title="Laravel"/>
-    <img src="https://github.com/user-attachments/assets/3361b981-3236-48a2-a5d4-5699eb109112" alt="My Skills" width="40px" height="40px" title="Livewire"/>
-    <img src="https://skillicons.dev/icons?i=vue&theme=dark" alt="My Skills"  width="40px" height="40px" title="Vue.js"/>
+    <div align="center">
+        <img src="https://skillicons.dev/icons?i=laravel&theme=dark" alt="My Skills" width="40px" height="40px" title="Laravel"/>
+    </div>
+    <div align="center">
+        <img src="https://github.com/user-attachments/assets/3361b981-3236-48a2-a5d4-5699eb109112" alt="My Skills" width="40px" height="40px" title="Livewire"/>
+        <img src="https://skillicons.dev/icons?i=vue&theme=dark" alt="My Skills"  width="60px" height="40px" title="Vue.js"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/512px-Tailwind_CSS_Logo.svg.png?20230715030042" alt="My Skills" height="40px" title="Tailwindcss"
+    </div>
+    <div align="center">
+        <img src="https://skillicons.dev/icons?i=alpinejs&theme=dark" alt="My Skills"  width="40px" height="40px" title="Alpinejs"/>
+        <img src="https://skillicons.dev/icons?i=css&theme=dark" alt="My Skills"  width="40px" height="40px" title="CSS"/>    
+        <img src="https://skillicons.dev/icons?i=html&theme=dark" alt="My Skills"  width="40px" height="40px" title="HTML"/>
+        <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="My Skills"  width="40px" height="40px" title="MySQL"/>
+    </div>
     <img src="https://skillicons.dev/icons?i=react&theme=dark" alt="My Skills"  width="40px" height="40px" title="React"/>
-    <img src="https://skillicons.dev/icons?i=alpinejs&theme=dark" alt="My Skills"  width="40px" height="40px" title="Alpinejs"/>
-    <img src="https://skillicons.dev/icons?i=css&theme=dark" alt="My Skills"  width="40px" height="40px" title="CSS"/>
-    <img src="https://skillicons.dev/icons?i=html&theme=dark" alt="My Skills"  width="40px" height="40px" title="HTML"/>
-    <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="My Skills"  width="40px" height="40px" title="MySQL"/>
     <img src="https://skillicons.dev/icons?i=arch&theme=dark" alt="My Skills"  width="40px" height="40px" title="Arch Linux"/>
     <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" alt="My Skills"  width="40px" height="40px" title="Bootstrap"/>
     <img src="https://skillicons.dev/icons?i=stackoverflow&theme=dark" alt="My Skills"  width="40px" height="40px" title="StackOverFlow"/>

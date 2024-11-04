@@ -33,36 +33,38 @@ Besides my full-time job and some freelance work, I learn something new every da
 
 <div>
     <div align="center">
-        <img src="https://skillicons.dev/icons?i=laravel&theme=dark" alt="My Skills" width="40px" height="40px" title="Laravel"/>
+        <img src="https://skillicons.dev/icons?i=laravel&theme=dark" alt="My Skills" width="40px" height="40px" title="Top Tier 🌟 Laravel 🌟 The Most Important Technology in My Stack 🌟 Absolutely GameChanger"/>
     </div>
     <div align="center">
-        <img src="https://github.com/user-attachments/assets/3361b981-3236-48a2-a5d4-5699eb109112" alt="My Skills" width="40px" height="40px" title="Livewire"/>
-        <img src="https://skillicons.dev/icons?i=vue&theme=dark" alt="My Skills"  width="60px" height="40px" title="Vue.js"/>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/512px-Tailwind_CSS_Logo.svg.png?20230715030042" alt="My Skills" height="40px" title="Tailwindcss"
+        <img src="https://github.com/user-attachments/assets/3361b981-3236-48a2-a5d4-5699eb109112" alt="My Skills" width="40px" height="40px" title="Tier 2 ⚙️ Livewire ⚙️ The Best What I Can Wish as a Full-Stack Developer"/>
+        <img src="https://skillicons.dev/icons?i=alpinejs&theme=dark" alt="My Skills"  width="40px" height="40px" title="Tier 2 ⚙️ Alpine.js ⚙️ With Alpine.js and Livewire, There Are No Limits to My Creativity!"/>
+        <img src="https://skillicons.dev/icons?i=vue&theme=dark" alt="My Skills"  width="40px" height="40px" title="Tier 2 ⚙️ Vue.js ⚙️ The Framework I Rely On for Building Dynamic SPAs"/>
+        <img src="/assets/tailwindcss.png" alt="My Skills" height="40px" width="40px" title="Tier 2 ⚙️ Tailwind CSS ⚙️ The Foundation of All My Designs"
     </div>
     <div align="center">
-        <img src="https://skillicons.dev/icons?i=alpinejs&theme=dark" alt="My Skills"  width="40px" height="40px" title="Alpinejs"/>
-        <img src="https://skillicons.dev/icons?i=css&theme=dark" alt="My Skills"  width="40px" height="40px" title="CSS"/>    
-        <img src="https://skillicons.dev/icons?i=html&theme=dark" alt="My Skills"  width="40px" height="40px" title="HTML"/>
-        <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="My Skills"  width="40px" height="40px" title="MySQL"/>
+        <img src="https://skillicons.dev/icons?i=css&theme=dark" alt="My Skills"  width="40px" height="40px" title="Tier 3 🧱 CSS 🧱 Like a Brick in the House"/>    
+        <img src="https://skillicons.dev/icons?i=html&theme=dark" alt="My Skills"  width="40px" height="40px" title="Tier 3 🧱 HTML 🧱 Like a Brick in the House"/>
+        <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="My Skills"  width="40px" height="40px" title="Tier 3 🧱 MySQL 🧱 Like a Brick in the House"/>
+        <img src="https://skillicons.dev/icons?i=js&theme=dark" alt="My Skills"  width="40px" height="40px" title="Tier 3 🧱 JavaScript 🧱 Like a Brick in the House"/>
+        <img src="https://skillicons.dev/icons?i=php&theme=dark" alt="My Skills"  width="40px" height="40px" title="Tier 3 🧱 PHP 🧱 Like a Brick in the House"/>
+        <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="My Skills"  width="40px" height="40px" title="Tier 3 🧱 GitHub 🧱 Like a Brick in the House"/>
+        <img src="https://skillicons.dev/icons?i=phpstorm&theme=dark" alt="My Skills"  width="40px" height="40px" title="Tier 3 🧱 PHPStorm 🧱 Like a Brick in the House"/>
+        <img src="https://skillicons.dev/icons?i=windows&theme=dark" alt="My Skills"  width="40px" height="40px" title="Tier 3 🧱 Windows 🧱 Like a Brick in the House"/>
+         <img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="My Skills"  width="40px" height="40px" title="Tier 3 🧱 Docker 🧱 Like a Brick in the House"/>
     </div>
-    <img src="https://skillicons.dev/icons?i=react&theme=dark" alt="My Skills"  width="40px" height="40px" title="React"/>
-    <img src="https://skillicons.dev/icons?i=arch&theme=dark" alt="My Skills"  width="40px" height="40px" title="Arch Linux"/>
-    <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" alt="My Skills"  width="40px" height="40px" title="Bootstrap"/>
-    <img src="https://skillicons.dev/icons?i=stackoverflow&theme=dark" alt="My Skills"  width="40px" height="40px" title="StackOverFlow"/>
-    <img src="https://skillicons.dev/icons?i=cs&theme=dark" alt="My Skills"  width="40px" height="40px" title="C#"/>
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="My Skills"  width="40px" height="40px" title="GitHub"/>
-    <img src="https://skillicons.dev/icons?i=js&theme=dark" alt="My Skills"  width="40px" height="40px" title="JavaScript"/>
-    <img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="My Skills"  width="40px" height="40px" title="Linux"/>
-    <img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="My Skills"  width="40px" height="40px" title="Docker"/>
-    <img src="https://skillicons.dev/icons?i=c&theme=dark" alt="My Skills"  width="40px" height="40px" title="C"/>
-    <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="My Skills"  width="40px" height="40px" title="NodeJs"/>
-    <img src="https://skillicons.dev/icons?i=npm&theme=dark" alt="My Skills"  width="40px" height="40px" title="NPM"/>
-    <img src="https://skillicons.dev/icons?i=php&theme=dark" alt="My Skills"  width="40px" height="40px" title="PHP"/>
-    <img src="https://skillicons.dev/icons?i=phpstorm&theme=dark" alt="My Skills"  width="40px" height="40px" title="PHPStorm"/>
-    <img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="My Skills"  width="40px" height="40px" title="Postman"/>
-    <img src="https://skillicons.dev/icons?i=windows&theme=dark" alt="My Skills"  width="40px" height="40px" title="Windows"/>
-    <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="My Skills"  width="40px" height="40px" title="VSCode"/>
+    <div align="center">
+        <img src="https://skillicons.dev/icons?i=react&theme=dark" alt="My Skills"  width="40px" height="40px" title="Tier 4 🛠️ React 🛠️ Useful Knowledge for Special Situations"/>
+        <img src="https://skillicons.dev/icons?i=arch&theme=dark" alt="My Skills"  width="40px" height="40px" title="Tier 4 🛠️ Arch Linux 🛠️ Useful Knowledge for Special Situations"/>
+        <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" alt="My Skills"  width="40px" height="40px" title="Tier 4 🛠️ Bootstrap 🛠️ Useful Knowledge for Special Situations"/>
+        <img src="https://skillicons.dev/icons?i=stackoverflow&theme=dark" alt="My Skills"  width="40px" height="40px" title="Tier 4 🛠️ StackoverFlow 🛠️ Useful Knowledge for Special Situations"/>
+        <img src="https://skillicons.dev/icons?i=cs&theme=dark" alt="My Skills"  width="40px" height="40px" title="Tier 4 🛠️ C# 🛠️ Useful Knowledge for Special Situations"/>
+        <img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="My Skills"  width="40px" height="40px" title="Tier 4 🛠️ Linux 🛠️ Useful Knowledge for Special Situations"/>
+        <img src="https://skillicons.dev/icons?i=c&theme=dark" alt="My Skills"  width="40px" height="40px" title="Tier 4 🛠️ C 🛠️ Useful Knowledge for Special Situations"/>
+        <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="My Skills"  width="40px" height="40px" title="Tier 4 🛠️ NodeJs 🛠️ Useful Knowledge for Special Situations"/>
+        <img src="https://skillicons.dev/icons?i=npm&theme=dark" alt="My Skills"  width="40px" height="40px" title="Tier 4 🛠️ NPM 🛠️ Useful Knowledge for Special Situations"/>
+        <img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="My Skills"  width="40px" height="40px" title="Tier 4 🛠️ Postman 🛠️ Useful Knowledge for Special Situations"/>
+        <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="My Skills"  width="40px" height="40px" title="Tier 4 🛠️ VSCode 🛠️ Useful Knowledge for Special Situations"/>
+    </div>
 </div>
 
 ## You can reach me out: 📫

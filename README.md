@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=Telexx12&color=green)
 ## Hi there I'm Telexx! <img src="https://media.tenor.com/AUHgwWxTw14AAAAi/dm4uz3-foekoe.gif" width="25">
 
 
